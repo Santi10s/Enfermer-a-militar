@@ -1,0 +1,18 @@
+{
+  "name": "Opo Enfermería Militar",
+  "short_name": "Opo Militar",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07101d",
+  "theme_color": "#07101d",
+  "description": "Entrenador para oposición de Enfermería Militar: inglés, enfermería general y bloque militar.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
