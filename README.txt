@@ -2,7 +2,7 @@ OPO ENFERMERÍA MILITAR - PWA
 
 Archivos:
 - index.html
-- questions.json
+- questions 500.json
 - manifest.json
 - sw.js
 - icon.svg
